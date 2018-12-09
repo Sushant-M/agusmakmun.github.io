@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am a software developer with experience in C and Android Programming.
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
-
-email: agus[at]python.web.id
+email: sushant.post[at]gmail.com

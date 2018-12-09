@@ -1,9 +1,9 @@
-title: Stack Problems
+title: My Articles
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
+author: Sushant Mathur
+github: https://github.com/Sushant-M
+about: Software Professional currently employed at Ryussi Technologies.
+disqus_shortname: Sushant's Blog
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -19,16 +19,16 @@ social:
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://twitter.com/SushantMathur1"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "https://www.linkedin.com/in/sushant-mathur-190870ba/"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/Sushant-M"
 
 share:
-  twitter_username: agusmakmun6
+  twitter_username: SushantMathur1
   fb_appid: 1749788565247320
 
 urls:
@@ -39,13 +39,13 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://sushant.wiki"
 baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
